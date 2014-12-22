@@ -1,24 +1,24 @@
 My experiments with water consumption
 
-This blog post captures my 3 month long experiment to increase my daily water consumption. I am not going to harp on the benefits of drinking sufficient water everyday, that's a known fact. Inspite of being aware of this fact my daily water intake was horribly low. A quick google search revealed that for a person of my height and weight I should be taking at least 2.7 litres of water everyday.
+This blog post captures my 3 months long experiment to increase my daily water consumption. I am not going to harp on the benefits of drinking sufficient water everyday, that's a known fact. Inspite of being aware of this fact my daily water intake was horribly low. A quick google search revealed that for a person of my height and weight should be taking at least 2.7 litres of water everyday.
 
-I read in Tim Ferris' book "The four hour body", that if you can't measure something, you can't control it. So the first step towards controlling my water consumption was to measure the water accurately. 4 glasses, 1 bottle, 5 times a day are all inaccurate ways of measuring and won't help. So the first step was to figure out a way to measure t
+I read in Tim Ferris' book "The four hour body", that if you can't measure something, you can't control it. So the first step in designing this experiment was measure my water intake accurately. 4 glasses, 1 bottle, 5 times a day are all inaccurate ways of measuring and won't help. So the first step was to figure out a way to measure t
 
 Version 1
-I started with a small cup (200ml) and kept it next to my water bottle. Instead of sipping water directly from the bottle, I would pour the water in the cup and then drink it. I would log the amount in my mobile (in simple notes application). It was obvious that this process was cumbersome (the extra steps of pouring in cup and logging it in the notes in mobile) and lead to even lesser water consumption. I had to improve on this version. Although, I got a fair idea in a few days that my daily intake was less than 1 litre which was way bel 
+I started with a small cup (200ml) and kept it next to my water bottle. Instead of sipping water directly from the bottle, I would pour the water in the cup and then drink it. I would log the amount in my mobile (in simple notes application). It was obvious that this process was cumbersome (the extra steps of pouring in cup and logging it in the notes in mobile) and lead to even lesser water consumption. I had to improve on this version. Although, I got a fair idea in a few days that my daily intake was less than 1 litre which was a suffcient motivation to continue with the experiment. 
 
 Version 2
-First step was to remove the extra step (pouring in a cup). So I measured the size of my gulp/sip (15-35ml) and would just count the number of gulps I was taking during each time. This made the processes simpler but introduced quite a bit of inaccuracy because of the variable sip size. Over a period of 10-12 intakes during the day, I could potentially introduce an error of upto 350-400 ml. 
+First step was to remove the extra step (pouring in a cup). So I measured the size of my gulp/sip (15-35ml) and would just count the number of gulps I was taking during each time. This simplified the process but introduced inaccuracy because of the variable sip size. Over a span of 10-12 intakes during the day, I could potentially add up the error to 350-400 ml. So the two hurdles to remove was inaccuracy and easier logging process.
 
 Version 3
-I found an app (iDrinkWater) which simplified the logging process quite a bit (not completely though). Then I removed the extra step of pouring in the cup by marking my drinking bottle with measurements on it (using a permanent markers)
+I found an app (iDrinkWater) which simplified the logging process quite a bit (not completely though). You should checkout this app, it's popular in app store. However, the shear number of readings (10-12) in a single day is harrowing. I will talk about how this problem was solved in later versions of this experiment. The second change that I brought in was to remove the extra step of pouring in the cup, by marking my drinking bottle with measurements on it (using a permanent marker). The smallest measurement size on my bottle is 20 ml (the small plastic measuring cups which come with the cough syrup bottles came handy in caliberation) 
 
 
 Few minor hacks worth mentioning
 
 1. The bottles that I use has a flip top which can be opened with flick of your thump. Another step to make the process easy, quick and simple. It's a hurdle if you have to remove and close the bottle cap by screwing and unscrewing the top.
 
-2. I initially thought of buying a sports bottle which comes with measurement marks, but they were too expensive and the marks were not sufficientlly small (at 20 ml)
+2. I initially thought of buying a sports bottle which comes with measurement marks, but they were too expensive and the marks were not sufficientlly small. For accuracy I needed the marks to be at 20 ml difference. (at 20 ml)
 
 
 
